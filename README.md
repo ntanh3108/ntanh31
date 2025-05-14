@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ntanh3108&theme=dracula" width="100%" height="150" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ntanh3108&theme=dracula" width="1000px" height="150" alt="stats graph" />
 </div>
 
 ###
