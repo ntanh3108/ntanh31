@@ -30,10 +30,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ntanh3108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntanh3108&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nguyentuananh3108/" target="_blank">
@@ -53,11 +57,15 @@
   </a>
 </div>
 
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/215zbqzdhzxhgfu72jttp4qry">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=215zbqzdhzxhgfu72jttp4qry&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ntanh3108/count.svg?"  />
