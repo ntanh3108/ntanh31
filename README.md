@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋! My name is Tuan Anh (Andy) Nguyen 
-I'm a software engineer
+<h2 align="center">Hi 👋! My name is Tuan Anh (Andy) Nguyen &nbsp
+I'm a software engineer &nbsp
 Vietnam 🇻🇳
 </h2>
 <br>
