@@ -40,6 +40,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ntanh3108&theme=dracula" height="150" alt="stats graph" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/nguyentuananh3108/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
