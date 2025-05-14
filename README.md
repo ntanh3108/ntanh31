@@ -40,19 +40,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nguyentuananh3108/" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyentuananh3108/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/tuananh31_/" target="_blank">
+  <a href="https://www.instagram.com/tuananh31_/" target="blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/ntanh3108" target="_blank">
+  <a href="https://www.facebook.com/ntanh3108" target="blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="mailto:ntanh3108@gmail.com" target="_blank">
+  <a href="mailto:ntanh3108@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="http://discordapp.com/users/485313050740654080" target="_blank">
+  <a href="http://discordapp.com/users/485313050740654080" target="blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/215zbqzdhzxhgfu72jttp4qry">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=215zbqzdhzxhgfu72jttp4qry&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=215zbqzdhzxhgfu72jttp4qry&count=5" alt="Spotify recently played" target="blank"/>
   </a>
 </div>
 
