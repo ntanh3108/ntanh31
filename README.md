@@ -72,15 +72,15 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ntanh3108/count.svg?"  />
+  <a href="https://open.spotify.com/user/215zbqzdhzxhgfu72jttp4qry">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=215zbqzdhzxhgfu72jttp4qry&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/215zbqzdhzxhgfu72jttp4qry">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=215zbqzdhzxhgfu72jttp4qry&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/ntanh3108/count.svg?"  />
 </div>
 
 ###
