@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! My name is Tuan Anh (Andy) Nguyen and I'm a software engineer, from Vietnam 🇻🇳</h2>
+<h2 align="center">Hi 👋! My name is Tuan Anh (Andy) Nguyen 
+I'm a software engineer
+Vietnam 🇻🇳
+</h2>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
