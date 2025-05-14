@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Hi 👋! My name is Tuan Anh (Andy) Nguyen and I'm a software engineer, from Vietnam 🇻🇳</h2>
 
 <br clear="both">
